@@ -69,6 +69,19 @@ Today I thought to wirelessly connect my android tablet & desktop and mirror it 
 
 FINALLY DID IT...
 
+	* Additional Issue - 
+	After shutdown when I relogin and try to connect via 'scrcpy' got this error
+	
+	$ scrcpy 3.3.2 <https://github.com/Genymobile/scrcpy>
+	  * daemon not running; starting now at tcp:5037
+	  * daemon started successfully
+	  ERROR: Could not find any ADB device
+	  ERROR: Server connection failed
+
+	'
+	'-->  adb connect [IP Address (Android Device)]:5555
+
+		Problem Solved
 </pre>
 
 
