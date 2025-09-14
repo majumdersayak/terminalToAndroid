@@ -71,7 +71,7 @@ Today I thought to wirelessly connect my android tablet & desktop
 FINALLY DID IT...
 
 	* Additional Issue - 
-	After shutdown relogin & try to connect via 'scrcpy' got this error
+	After shutdown & relogin & try to connect via 'scrcpy' got error
 	
 	$ scrcpy 3.3.2 <https://github.com/Genymobile/scrcpy>
 	  * daemon not running; starting now at tcp:5037
