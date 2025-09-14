@@ -2,7 +2,7 @@
 Hello World 
 
 Today I thought to wirelessly connect my android tablet & desktop 
-and mirror it via scripy and here's how I did it
+& mirror it via scripy and here's how I did it
 
 		-------------------
 		Terminal to Android
@@ -71,7 +71,7 @@ and mirror it via scripy and here's how I did it
 FINALLY DID IT...
 
 	* Additional Issue - 
-	After shutdown when I relogin and try to connect via 'scrcpy' got this error
+	After shutdown relogin & try to connect via 'scrcpy' got this error
 	
 	$ scrcpy 3.3.2 <https://github.com/Genymobile/scrcpy>
 	  * daemon not running; starting now at tcp:5037
