@@ -64,8 +64,8 @@ Today I thought to wirelessly connect my android tablet & desktop and mirror it 
 	'--> scrcpy (On Desktop terminal)
 
 	<p align="center">
-  <img src="Screenshot_from_2025-09-14_21-16-25.png" />
-</p>
+  <img src="Screenshot_from_2025-09-14_21-16-25.png" width="500" />
+	</p>
 
 FINALLY DID IT...
 
