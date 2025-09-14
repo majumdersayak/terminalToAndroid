@@ -1,7 +1,8 @@
 <pre>
 Hello World 
 
-Today I thought to wirelessly connect my android tablet & desktop and mirror it via scripy and here's how I did it
+Today I thought to wirelessly connect my android tablet & desktop 
+and mirror it via scripy and here's how I did it
 
 		-------------------
 		Terminal to Android
