@@ -35,7 +35,7 @@ Today I thought to wirelessly connect my android tablet & desktop
 	'--> adb tcpip 5555
 	'--> adb connect [IP Address (Android Device)]:5555
 	
-	Connected Wirelessly Now can remove the USB connection 
+	Connected Wirelessly, Now can remove the USB connection 
 
 * Issue 2 - How to find the IP Address on Android Device ?
 
